@@ -10,16 +10,16 @@ https://www.tooplate.com/view/2137-barista-cafe
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
+  --white-color:                  #f8f8f8;
   --primary-color:                #9852b7;
-  --secondary-color:              #9852b7;
+  --secondary-color:              #763497;
   --section-bg-color:             #b78752;
   --custom-btn-bg-color:          #BC6C25;
   --custom-btn-bg-hover-color:    #DDA15E;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #E76F51;
+  --link-hover-color:             #9932cc;
 
   --body-font-family:             'Plus Jakarta Sans', sans-serif;
 
